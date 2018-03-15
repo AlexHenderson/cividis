@@ -24,8 +24,7 @@ function cm_data = cividis(m)
 %   "Optimizing colormaps with consideration for color vision deficiency to
 %   enable accurate interpretation of scientific data" available from
 %   https://arxiv.org/abs/1712.01662 
-%   The colormap values are available from
-%   https://github.com/fiji/fiji/blob/master/luts/cividis.txt
+%   The colormap values are available from https://github.com/pnnl/cmaputil
 %
 % This file is released under the CC0 1.0 Universal licence
 % (https://creativecommons.org/publicdomain/zero/1.0/). 
